@@ -1,4 +1,4 @@
-pyRoundnessWadell
+# pyRoundnessWadell
 
 Sharpness of edges and corners of a particle, expressed by Wadell (1932) as the ratio of the average radius of curvature of corners of the particle to the radius of the maximum inscribed sphere.
 
